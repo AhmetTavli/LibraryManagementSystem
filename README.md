@@ -21,8 +21,8 @@ Optional: MySQLWorkbench
 
 ![alt text](https://github.com/AhmetTavli/LibraryManagementSystem/blob/master/Screen%20Shot%202019-01-19%20at%2014.10.11.png)
 
+Load and execute [library.sql](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/AhmetTavli/LibraryManagementSystem/blob/master/library.sql)
 
-Load and execute library.sql 
 
 More instructions and details about to come... Stay tuned.
    
